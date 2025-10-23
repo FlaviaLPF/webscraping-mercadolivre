@@ -118,10 +118,6 @@ descriptive statistics of the data produced. I chose to use SQL instead
 of the describe method as a challenge.
 
 <p align="center">
-  <img src="img/cod9.png" alt="" style="width:100%; height:auto;">
-</p>
-
-<p align="center">
   <img src="img/cod10.png" alt="" style="width:100%; height:auto;">
 </p>
 
@@ -159,17 +155,17 @@ Below is a partial view of the report.
 And last but not least, several charts were generated.
 
 <p align="center">
-  <img src="img/graf1.png" alt="" style="max-width:70%; height:auto; max-height:800px;">
+  <img src="img/graf1.png" alt="" style="max-width:70%; height:auto; max-height:700px;">
 </p>
 
 <p align="center">
-  <img src="img/graf2.png" alt="" style="max-width:70%; height:auto; max-height:800px;">
+  <img src="img/graf2.png" alt="" style="max-width:70%; height:auto; max-height:700px;">
 </p>
 
 ### **Conclusion**
 
 This small project develops a Python script to extract market research
-data from the Mercado Livre website using a method called web scraping.
+data from the Mercado Livre website using a technique called web scraping.
 
 Skills developed with this project:
 
