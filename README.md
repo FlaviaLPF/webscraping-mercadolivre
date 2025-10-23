@@ -109,8 +109,8 @@ file.
 
 Partial preview of the file:
 
-<p align="center">
-  <img src="img/cod8.png" alt="" style="max-width:80%; height:auto; max-height:800px;">
+<p align="left">
+  <img src="img/cod8.png" alt="" style="max-width:60%; height:auto; max-height:800px;">
 </p>
 
 Below are the script and the generation of several reports containing
@@ -159,11 +159,11 @@ Below is a partial view of the report.
 And last but not least, several charts were generated.
 
 <p align="center">
-  <img src="img/graf1.png" alt="" style="max-width:80%; height:auto; max-height:800px;">
+  <img src="img/graf1.png" alt="" style="max-width:70%; height:auto; max-height:800px;">
 </p>
 
 <p align="center">
-  <img src="img/graf2.png" alt="" style="max-width:80%; height:auto; max-height:800px;">
+  <img src="img/graf2.png" alt="" style="max-width:70%; height:auto; max-height:800px;">
 </p>
 
 ### **Conclusion**
