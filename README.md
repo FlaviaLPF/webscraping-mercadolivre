@@ -9,8 +9,9 @@ Implemented in a Google Colab notebook, the project includes a Python
 script that requests web pages, parses and extracts data, and outputs a
 cleaned CSV file plus analysis delivered as reports and visualizations.
 
+
 <p align="center">
-  <img src="img/architecture1.png" alt="" style="width:100%; height:auto;">
+  <img src="img/architecture1.png" alt="" style="max-width:90%; height:auto; max-height:800px;">
 </p>
 
 
@@ -109,7 +110,7 @@ file.
 Partial preview of the file:
 
 <p align="center">
-  <img src="img/cod8.png" alt="" style="width:100%; height:auto;">
+  <img src="img/cod8.png" alt="" style="max-width:90%; height:auto; max-height:800px;">
 </p>
 
 Below are the script and the generation of several reports containing
@@ -146,7 +147,6 @@ Below is a partial view of the report.
   <img src="img/cod15.png" alt="" style="width:100%; height:auto;">
 </p>
 
-And last but not least, several charts were generated.
 
 <p align="center">
   <img src="img/cod16.png" alt="" style="width:100%; height:auto;">
@@ -156,12 +156,14 @@ And last but not least, several charts were generated.
   <img src="img/cod17.png" alt="" style="width:100%; height:auto;">
 </p>
 
+And last but not least, several charts were generated.
+
 <p align="center">
-  <img src="img/graf1.png" alt="" style="width:100%; height:auto;">
+  <img src="img/graf1.png" alt="" style="max-width:90%; height:auto; max-height:800px;">
 </p>
 
 <p align="center">
-  <img src="img/graf2.png" alt="" style="width:100%; height:auto;">
+  <img src="img/graf2.png" alt="" style="max-width:90%; height:auto; max-height:800px;">
 </p>
 
 ### **Conclusion**
