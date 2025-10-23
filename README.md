@@ -52,7 +52,7 @@ products, which are then loaded on the next page.
 <span class="mark"> Note: the pages on this site are constantly changing. To run the code
 below, you must verify that the page layout remains the same as
 documented here by checking the pages HTML script.</span>
----
+
 
 Below is an explanation of how the script was developed.
 
