@@ -1,4 +1,4 @@
-## **Web Scraping do Mercado Livre**
+## **Mercado Livre Web Scraping**
 
 ### **Scope of works**
 
@@ -22,7 +22,7 @@ an object called the \"soup\", the Requests library for making page
 access requests to websites, and the Pandas and Matplotlib libraries.
 
 <p align="center">
-  <img src="img/architecture2.png" alt="" style="width:100%; height:auto;">
+  <img src="img/architecture2.png" alt=""  style="max-width:80%; height:auto; max-height:800px;">
 </p>
 
 The main purpose of the project is to run a Python script that makes a
@@ -110,7 +110,7 @@ file.
 Partial preview of the file:
 
 <p align="center">
-  <img src="img/cod8.png" alt="" style="max-width:90%; height:auto; max-height:800px;">
+  <img src="img/cod8.png" alt="" style="max-width:80%; height:auto; max-height:800px;">
 </p>
 
 Below are the script and the generation of several reports containing
@@ -159,11 +159,11 @@ Below is a partial view of the report.
 And last but not least, several charts were generated.
 
 <p align="center">
-  <img src="img/graf1.png" alt="" style="max-width:90%; height:auto; max-height:800px;">
+  <img src="img/graf1.png" alt="" style="max-width:80%; height:auto; max-height:800px;">
 </p>
 
 <p align="center">
-  <img src="img/graf2.png" alt="" style="max-width:90%; height:auto; max-height:800px;">
+  <img src="img/graf2.png" alt="" style="max-width:80%; height:auto; max-height:800px;">
 </p>
 
 ### **Conclusion**
