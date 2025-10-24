@@ -110,7 +110,7 @@ file.
 Partial preview of the file:
 
 <p align="left">
-  <img src="img/cod8.png" alt="" style="max-width:60%; height:auto; max-height:800px;">
+  <img src="img/cod9.png" alt="" style="width:100%; height:auto;">
 </p>
 
 Below are the script and the generation of several reports containing
